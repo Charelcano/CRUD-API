@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS students (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
-▶️ How to Run
+-- How to Run
 
 Start the server in development mode:
 
@@ -64,7 +64,7 @@ By default, the server runs at:
 
 http://localhost:3000
 
-📌 API Endpoints
+-- API Endpoints
 
 Base URL: /api
 
