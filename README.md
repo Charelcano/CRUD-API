@@ -2,12 +2,12 @@
 
 ## Project Overview  
 This project is a simple **CRUD (Create, Read, Update, Delete) API** built with **Node.js, Express, and MySQL**.  
-It manages two entities: **👨‍🎓 Students** and **📚 Courses**.  
+It manages two entities: **Students** and **Courses**.  
 The project demonstrates RESTful API design, modular controllers, and route handling.  
 
 ---
 
-## ⚙Setup Steps  
+## Setup Steps  
 
 git clone https://github.com/Charelcano/CRUD-API.git
 cd CRUD-API
